@@ -1,6 +1,6 @@
 # Olá! Eu sou o Ueslei 👋
 
-💻 Desenvolvedor Fullstack focado em Node.js, APIs REST e NextJS
+💻 Desenvolvedor Fullstack focado em Node.js, APIs REST e NextJS.
 🚀 Em busca de oportunidades como freelancer ou desenvolvedor júnior.  
 📚 Atualmente estudando:
 
