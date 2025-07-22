@@ -28,7 +28,7 @@
 
 ## GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=uesleisouza33&theme=radical)
+![Github Stats](https://greptile-stats.vercel.app/api/widget/uesleisouza33/stats)
 
 
 ## Connect with Me
